@@ -1,6 +1,6 @@
 -- Create TABLE
 create table retail_sales(
-            transactions_id	 INT,
+                        transactions_id	INT,
 			sale_date DATE,
 			sale_time TIME,
 			customer_id INT,
